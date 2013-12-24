@@ -1,1 +1,6 @@
 /* Stylesheet for the PHP version of Music Organizer */
+
+#container{
+
+	width: 90%;
+}
