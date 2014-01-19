@@ -26,6 +26,18 @@
 		<input type = "submit" id = "submit">
 	</form>
 
+<?php
+
+	//sanitizing goes here
+	
+
+	//create the query
+
+
+
+	//run the query
+?>
+
 
 </div>
 
