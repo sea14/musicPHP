@@ -32,7 +32,7 @@
 	
 
 	//create the query
-
+	$query = "SELECT songName, composer FROM Songs WHERE songName=?"
 
 
 	//run the query
