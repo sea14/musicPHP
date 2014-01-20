@@ -3,4 +3,13 @@
 #container{
 
 	width: 90%;
+	margin-top: 5%;
+}
+
+#searchForm{
+	
+	font-family: 'Buenard', serif;
+	width: 30%;
+	margin-left: 20%;
+
 }
