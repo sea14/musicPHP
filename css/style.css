@@ -13,3 +13,10 @@
 	margin-left: 20%;
 
 }
+
+#searchForm{
+
+	width: 30%;
+	margin-left: 20%;
+	border: 1px solid #000;
+}
