@@ -8,8 +8,6 @@
 
 <body>
 
-</body>
-
 <?php
 
 	//get our db connection script
@@ -21,7 +19,7 @@
 
 <div id = "container">
 
-	<form id="search">
+	<form id="searchForm">
 		<input type = "text" id = "search">
 		<input type = "submit" id = "submit">
 	</form>
@@ -40,5 +38,7 @@
 
 
 </div>
+
+</body>
 
 </html>
